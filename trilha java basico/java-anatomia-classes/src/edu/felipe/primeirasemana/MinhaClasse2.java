@@ -1,3 +1,4 @@
+package edu.felipe.primeirasemana;
 public class MinhaClasse2 {
     
     public static void main(String[] args) {
